@@ -608,6 +608,12 @@ a > div:hover {
     }
     /* Jumbotron 3 */
 
+    /* Jumbotron 4 */
+    .jumbotron4 p {
+        font-size: 1em;
+    }
+    /* Jumbotron 4 */
+
     /* Free Trail */
     .freeTrial > div{
         flex-direction: column;
